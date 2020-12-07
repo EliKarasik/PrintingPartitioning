@@ -28,13 +28,13 @@ On OpenSuse:
 ## Usage
                                                                                                                            
 Allowed options:
-  --angle arg (=135)                    critical overhang angle
-  --methods arg (=0.5,0.3,0.1,0.1)      distribution of methods for search (4 values)
-  --bt-linear arg (=0.985)              backtrack linear probability
-  --bt-exp arg (=0.76)                  backtrack exponential probability
-  --file arg                            file to process
-  -a [ --automatic ]                    don't open windows until result
-  --silent                              no debug prints
-  --time-limit arg (=50)                runtime limit in minutes
-  --cut-limit arg (=5000)               amount of cuts to try before stopping
-  --help                                print a help message
+*  --angle arg (=135)                    critical overhang angle
+*  --methods arg (=0.5,0.3,0.1,0.1)      distribution of methods for search (4 values)
+*  --bt-linear arg (=0.985)              backtrack linear probability
+*  --bt-exp arg (=0.76)                  backtrack exponential probability
+*  --file arg                            file to process
+*  -a [ --automatic ]                    don't open windows until result
+*  --silent                              no debug prints
+*  --time-limit arg (=50)                runtime limit in minutes
+*  --cut-limit arg (=5000)               amount of cuts to try before stopping
+*  --help                                print a help message
