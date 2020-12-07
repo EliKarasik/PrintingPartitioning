@@ -1,0 +1,13 @@
+.idea/
+cmake-build-debug/
+cmake-build-release/
+Makefile
+*_automoc*
+*.skel
+*.vox
+*.tips
+*.cmake
+CMakeCache.txt
+CMakeFiles/*
+Dart*
+__/
